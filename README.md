@@ -7,4 +7,5 @@ my first sample project with react native
 
 # Run with ios
 `cd BookSearch`
+
 `react-native run-ios`
