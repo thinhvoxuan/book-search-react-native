@@ -1,6 +1,6 @@
 'use strict';
 import React, {View, Text, StyleSheet, Component, ListView, Image, TouchableHighlight } from 'react-native';
-import BookDetails from './bookdetail'
+import BookDetails from './BookDetail'
 
 var buildUrl = function(q) {
     return 'https://www.googleapis.com/books/v1/volumes?q='
